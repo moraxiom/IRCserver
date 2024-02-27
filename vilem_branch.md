@@ -1,4 +1,4 @@
 # VILEM'S WORKSPACE
 # What I worked on
-- [ ] Documentation
+- [ ] **DOCUMENTATION**
   - [x] Swapfile
