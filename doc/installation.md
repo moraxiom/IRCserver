@@ -27,12 +27,11 @@ sudo jed /etc/fstab
 ```
 
 ## B. Client WeeChat
-1. Télécharger le client WeeChat
+1. Télécharger le client WeeChat. Lorsqu'on vous le demande, entrez "Y" et appuyer sur la touche *Enter* afin de procéder à l'installation.<br>Vous pouvez
+réinitialiser les services qui ont besoin de l'être.</br>
 ```
 sudo apt-get install weechat
 ```
-Lorsqu'on vous le demande, entrez "Y" et appuyer sur la touche *Enter* afin de procéder à l'installation.<br>Vous pouvez
-réinitialiser les services qui ont besoin de l'être.</br>
 2. Ouvrir le logiciel
 ```
 weechat
