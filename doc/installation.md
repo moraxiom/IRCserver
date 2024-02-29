@@ -36,3 +36,29 @@ sudo apt-get install weechat
 ```
 weechat
 ```
+
+## C. Ajout de réseaux
+### OFTC (Open and Free Technology Community)
+**Ceci est un exemple**
+1. Ajouter le réseau OFTC dans la liste de réseaux
+```
+/server add oftc irc.oftc.net/6667
+```
+2. Se connecter au réseau et changer son nom d'affichage
+```
+/connect oftc
+/nick NOM_ICI
+```
+3. Filtrer les canaux de plus de 100 utilisateurs ayant comme sujet "Linux"
+```
+/quote list >100 linux*
+```
+4. Joindre un canal de chat (exemple)
+```
+/join #Radeon
+```
+
+
+
+
+
